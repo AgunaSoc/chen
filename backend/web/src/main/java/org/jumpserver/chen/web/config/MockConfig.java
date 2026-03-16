@@ -1,10 +1,10 @@
-package org.jumpserver.chen.web.config;
+package org.atherlock.chen.web.config;
 
 import lombok.Data;
-import org.jumpserver.chen.framework.datasource.entity.DBConnectInfo;
-import org.jumpserver.chen.web.service.SessionService;
-import org.jumpserver.chen.web.service.impl.JmsSessionService;
-import org.jumpserver.chen.web.service.impl.MockSessionService;
+import org.atherlock.chen.framework.datasource.entity.DBConnectInfo;
+import org.atherlock.chen.web.service.SessionService;
+import org.atherlock.chen.web.service.impl.JmsSessionService;
+import org.atherlock.chen.web.service.impl.MockSessionService;
 import org.springframework.boot.context.properties.ConfigurationProperties;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

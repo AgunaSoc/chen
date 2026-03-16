@@ -10,7 +10,7 @@
         <relativePath/>
     </parent>
 
-    <groupId>org.jumpserver</groupId>
+    <groupId>org.atherlock</groupId>
     <artifactId>chen</artifactId>
     <version>${revision}</version>
     <packaging>pom</packaging>

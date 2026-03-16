@@ -1,4 +1,4 @@
-package org.jumpserver.chen.web;
+package org.atherlock.chen.web;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -8,7 +8,7 @@ import org.springframework.scheduling.annotation.EnableAsync;
 
 @EnableAsync
 @SpringBootApplication
-@ComponentScan(basePackages = {"org.jumpserver.chen"})
+@ComponentScan(basePackages = {"org.atherlock.chen"})
 public class WebDbApplication {
 
     public static void main(String[] args) {

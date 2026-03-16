@@ -1,4 +1,4 @@
-package org.jumpserver.chen.framework.session.global;
+package org.atherlock.chen.framework.session.global;
 
 import lombok.Data;
 

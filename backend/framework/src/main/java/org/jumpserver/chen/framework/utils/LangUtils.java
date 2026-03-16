@@ -1,4 +1,4 @@
-package org.jumpserver.chen.framework.utils;
+package org.atherlock.chen.framework.utils;
 
 public class LangUtils {
     private static final String S_ = "_";

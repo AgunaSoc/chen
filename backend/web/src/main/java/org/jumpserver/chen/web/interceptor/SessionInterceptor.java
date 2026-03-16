@@ -1,9 +1,9 @@
-package org.jumpserver.chen.web.interceptor;
+package org.atherlock.chen.web.interceptor;
 
 import jakarta.servlet.http.HttpServletRequest;
 import jakarta.servlet.http.HttpServletResponse;
 import org.springframework.web.servlet.HandlerInterceptor;
-import org.jumpserver.chen.framework.session.SessionManager;
+import org.atherlock.chen.framework.session.SessionManager;
 
 
 public class SessionInterceptor implements HandlerInterceptor {

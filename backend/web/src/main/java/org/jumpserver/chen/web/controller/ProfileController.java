@@ -1,8 +1,8 @@
-package org.jumpserver.chen.web.controller;
+package org.atherlock.chen.web.controller;
 
-import org.jumpserver.chen.framework.datasource.Datasource;
-import org.jumpserver.chen.framework.session.SessionManager;
-import org.jumpserver.chen.web.entity.Profile;
+import org.atherlock.chen.framework.datasource.Datasource;
+import org.atherlock.chen.framework.session.SessionManager;
+import org.atherlock.chen.web.entity.Profile;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;

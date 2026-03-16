@@ -1,12 +1,12 @@
-package org.jumpserver.chen.modules.oracle;
+package org.atherlock.chen.modules.oracle;
 
 import lombok.extern.slf4j.Slf4j;
-import org.jumpserver.chen.framework.datasource.base.BaseActionHandler;
-import org.jumpserver.chen.framework.datasource.entity.action.Action;
-import org.jumpserver.chen.framework.datasource.entity.action.EventEmitter;
-import org.jumpserver.chen.framework.datasource.entity.form.FormData;
-import org.jumpserver.chen.framework.datasource.entity.resource.TreeNode;
-import org.jumpserver.chen.framework.i18n.MessageUtils;
+import org.atherlock.chen.framework.datasource.base.BaseActionHandler;
+import org.atherlock.chen.framework.datasource.entity.action.Action;
+import org.atherlock.chen.framework.datasource.entity.action.EventEmitter;
+import org.atherlock.chen.framework.datasource.entity.form.FormData;
+import org.atherlock.chen.framework.datasource.entity.resource.TreeNode;
+import org.atherlock.chen.framework.i18n.MessageUtils;
 
 import java.sql.SQLException;
 import java.util.List;

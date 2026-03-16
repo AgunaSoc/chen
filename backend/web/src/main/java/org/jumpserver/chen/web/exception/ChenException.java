@@ -1,4 +1,4 @@
-package org.jumpserver.chen.web.exception;
+package org.atherlock.chen.web.exception;
 
 public class ChenException extends RuntimeException {
 

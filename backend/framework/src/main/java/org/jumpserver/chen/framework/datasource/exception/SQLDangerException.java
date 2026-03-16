@@ -1,4 +1,4 @@
-package org.jumpserver.chen.framework.datasource.exception;
+package org.atherlock.chen.framework.datasource.exception;
 
 import com.alibaba.druid.sql.parser.ParserException;
 

@@ -1,8 +1,8 @@
-package org.jumpserver.chen.web.hook;
+package org.atherlock.chen.web.hook;
 
 import jakarta.annotation.PostConstruct;
 import lombok.extern.slf4j.Slf4j;
-import org.jumpserver.chen.framework.datasource.Datasource;
+import org.atherlock.chen.framework.datasource.Datasource;
 import org.reflections.Reflections;
 import org.springframework.stereotype.Component;
 
@@ -13,7 +13,7 @@ import java.lang.reflect.Modifier;
 public class RegisterDBModules {
     @PostConstruct
     public void registerDBModules() {
-        Reflections reflections = new Reflections("org.jumpserver.chen.modules");
+        Reflections reflections = new Reflections("org.atherlock.chen.modules");
         var subTypes = reflections.getSubTypesOf(Datasource.class);
         subTypes.stream()
                 .filter(

@@ -1,4 +1,4 @@
-package org.jumpserver.chen.framework.console.entity.request;
+package org.atherlock.chen.framework.console.entity.request;
 
 
 import java.util.ArrayList;

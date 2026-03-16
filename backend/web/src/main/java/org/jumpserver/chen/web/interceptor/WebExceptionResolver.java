@@ -1,9 +1,9 @@
-package org.jumpserver.chen.web.interceptor;
+package org.atherlock.chen.web.interceptor;
 
 import jakarta.servlet.http.HttpServletRequest;
 import jakarta.servlet.http.HttpServletResponse;
 import lombok.extern.slf4j.Slf4j;
-import org.jumpserver.chen.web.exception.ChenException;
+import org.atherlock.chen.web.exception.ChenException;
 import org.springframework.stereotype.Component;
 import org.springframework.web.servlet.HandlerExceptionResolver;
 import org.springframework.web.servlet.ModelAndView;

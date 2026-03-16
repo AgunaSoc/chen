@@ -1,6 +1,6 @@
-package org.jumpserver.chen.framework.console.dataview.export;
+package org.atherlock.chen.framework.console.dataview.export;
 
-import org.jumpserver.chen.framework.console.dataview.DataViewData;
+import org.atherlock.chen.framework.console.dataview.DataViewData;
 
 public interface DataExportInterface {
     void exportData(String path, DataViewData data) throws Exception;

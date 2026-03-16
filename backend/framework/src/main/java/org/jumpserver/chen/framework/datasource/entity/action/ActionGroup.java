@@ -1,4 +1,4 @@
-package org.jumpserver.chen.framework.datasource.entity.action;
+package org.atherlock.chen.framework.datasource.entity.action;
 
 import lombok.Data;
 import lombok.EqualsAndHashCode;

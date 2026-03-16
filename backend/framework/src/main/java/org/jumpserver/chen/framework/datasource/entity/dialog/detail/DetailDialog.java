@@ -1,8 +1,8 @@
-package org.jumpserver.chen.framework.datasource.entity.dialog.detail;
+package org.atherlock.chen.framework.datasource.entity.dialog.detail;
 
 import lombok.Data;
 import lombok.EqualsAndHashCode;
-import org.jumpserver.chen.framework.datasource.entity.dialog.Dialog;
+import org.atherlock.chen.framework.datasource.entity.dialog.Dialog;
 
 import java.util.ArrayList;
 import java.util.List;

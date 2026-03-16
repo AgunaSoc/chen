@@ -1,15 +1,15 @@
-package org.jumpserver.chen.framework.ws;
+package org.atherlock.chen.framework.ws;
 
 import com.alibaba.fastjson.JSON;
 import lombok.extern.slf4j.Slf4j;
 import org.apache.commons.lang3.StringUtils;
-import org.jumpserver.chen.framework.console.Console;
-import org.jumpserver.chen.framework.console.DataViewConsole;
-import org.jumpserver.chen.framework.console.QueryConsole;
-import org.jumpserver.chen.framework.console.entity.request.Connect;
-import org.jumpserver.chen.framework.session.SessionManager;
-import org.jumpserver.chen.framework.utils.TreeUtils;
-import org.jumpserver.chen.framework.ws.io.Packet;
+import org.atherlock.chen.framework.console.Console;
+import org.atherlock.chen.framework.console.DataViewConsole;
+import org.atherlock.chen.framework.console.QueryConsole;
+import org.atherlock.chen.framework.console.entity.request.Connect;
+import org.atherlock.chen.framework.session.SessionManager;
+import org.atherlock.chen.framework.utils.TreeUtils;
+import org.atherlock.chen.framework.ws.io.Packet;
 import org.springframework.web.socket.CloseStatus;
 import org.springframework.web.socket.WebSocketMessage;
 import org.springframework.web.socket.WebSocketSession;

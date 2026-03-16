@@ -1,4 +1,4 @@
-package org.jumpserver.chen.web;
+package org.atherlock.chen.web;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

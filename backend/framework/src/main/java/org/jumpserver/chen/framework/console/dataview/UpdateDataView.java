@@ -1,4 +1,4 @@
-package org.jumpserver.chen.framework.console.dataview;
+package org.atherlock.chen.framework.console.dataview;
 
 import lombok.Data;
 

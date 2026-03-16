@@ -1,8 +1,8 @@
-package org.jumpserver.chen.framework.console.state;
+package org.atherlock.chen.framework.console.state;
 
 import lombok.Data;
 import lombok.EqualsAndHashCode;
-import org.jumpserver.chen.framework.datasource.sql.SQLQueryParams;
+import org.atherlock.chen.framework.datasource.sql.SQLQueryParams;
 
 
 @EqualsAndHashCode(callSuper = true)

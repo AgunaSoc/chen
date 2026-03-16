@@ -1,6 +1,6 @@
-package org.jumpserver.chen.framework.utils;
+package org.atherlock.chen.framework.utils;
 
-import org.jumpserver.chen.framework.session.SessionManager;
+import org.atherlock.chen.framework.session.SessionManager;
 
 import java.util.concurrent.*;
 

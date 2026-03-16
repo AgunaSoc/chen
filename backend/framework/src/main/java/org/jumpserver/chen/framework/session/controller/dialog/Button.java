@@ -1,4 +1,4 @@
-package org.jumpserver.chen.framework.session.controller.dialog;
+package org.atherlock.chen.framework.session.controller.dialog;
 
 import lombok.Data;
 

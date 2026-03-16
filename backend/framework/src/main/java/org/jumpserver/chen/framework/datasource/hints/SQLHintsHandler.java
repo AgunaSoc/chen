@@ -1,4 +1,4 @@
-package org.jumpserver.chen.framework.datasource.hints;
+package org.atherlock.chen.framework.datasource.hints;
 
 import java.sql.SQLException;
 import java.util.List;

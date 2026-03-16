@@ -1,4 +1,4 @@
-package org.jumpserver.chen.framework.session.controller.message;
+package org.atherlock.chen.framework.session.controller.message;
 
 public enum MessageLevel {
     SUCCESS("success"), WARNING("warning"), ERROR("error"), INFO("info");

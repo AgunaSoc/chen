@@ -1,4 +1,4 @@
-package org.jumpserver.chen.framework.datasource.sql;
+package org.atherlock.chen.framework.datasource.sql;
 
 import com.alibaba.druid.DbType;
 import com.alibaba.druid.pool.DruidPooledConnection;
@@ -8,9 +8,9 @@ import com.alibaba.druid.sql.ast.statement.SQLSelectStatement;
 import lombok.Getter;
 import lombok.Setter;
 import lombok.extern.slf4j.Slf4j;
-import org.jumpserver.chen.framework.i18n.MessageUtils;
-import org.jumpserver.chen.framework.jms.acl.ACLResult;
-import org.jumpserver.chen.framework.utils.PageUtils;
+import org.atherlock.chen.framework.i18n.MessageUtils;
+import org.atherlock.chen.framework.jms.acl.ACLResult;
+import org.atherlock.chen.framework.utils.PageUtils;
 
 import java.sql.Connection;
 import java.sql.SQLException;

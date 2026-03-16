@@ -1,6 +1,6 @@
-package org.jumpserver.chen.framework.utils;
+package org.atherlock.chen.framework.utils;
 
-import org.jumpserver.chen.framework.datasource.entity.resource.TreeNode;
+import org.atherlock.chen.framework.datasource.entity.resource.TreeNode;
 
 public class TreeUtils {
     public static final String NODE_SPLIT = ",";

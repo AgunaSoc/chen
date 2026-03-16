@@ -1,8 +1,8 @@
-package org.jumpserver.chen.framework.console.state;
+package org.atherlock.chen.framework.console.state;
 
 import lombok.Getter;
-import org.jumpserver.chen.framework.ws.io.PacketIO;
-import org.jumpserver.chen.framework.ws.io.Packet;
+import org.atherlock.chen.framework.ws.io.PacketIO;
+import org.atherlock.chen.framework.ws.io.Packet;
 
 
 public class StateManager<T extends State> {

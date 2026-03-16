@@ -1,4 +1,4 @@
-package org.jumpserver.chen.framework.datasource.entity.form;
+package org.atherlock.chen.framework.datasource.entity.form;
 
 import lombok.Data;
 

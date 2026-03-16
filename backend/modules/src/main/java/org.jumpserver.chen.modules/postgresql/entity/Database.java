@@ -1,9 +1,9 @@
-package org.jumpserver.chen.modules.postgresql.entity;
+package org.atherlock.chen.modules.postgresql.entity;
 
 import lombok.Data;
-import org.jumpserver.chen.framework.datasource.entity.resource.ResourceNode;
-import org.jumpserver.chen.framework.datasource.entity.resource.TreeNode;
-import org.jumpserver.chen.framework.utils.TreeUtils;
+import org.atherlock.chen.framework.datasource.entity.resource.ResourceNode;
+import org.atherlock.chen.framework.datasource.entity.resource.TreeNode;
+import org.atherlock.chen.framework.utils.TreeUtils;
 
 @Data
 public class Database implements ResourceNode {

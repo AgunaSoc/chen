@@ -1,11 +1,11 @@
-package org.jumpserver.chen.modules.sqlserver;
+package org.atherlock.chen.modules.sqlserver;
 
 import lombok.extern.slf4j.Slf4j;
-import org.jumpserver.chen.framework.datasource.Datasource;
-import org.jumpserver.chen.framework.datasource.base.BaseConnectionManager;
-import org.jumpserver.chen.framework.datasource.entity.DBConnectInfo;
-import org.jumpserver.chen.framework.datasource.sql.SQL;
-import org.jumpserver.chen.framework.driver.DriverClassLoader;
+import org.atherlock.chen.framework.datasource.Datasource;
+import org.atherlock.chen.framework.datasource.base.BaseConnectionManager;
+import org.atherlock.chen.framework.datasource.entity.DBConnectInfo;
+import org.atherlock.chen.framework.datasource.sql.SQL;
+import org.atherlock.chen.framework.driver.DriverClassLoader;
 
 import java.lang.reflect.InvocationTargetException;
 import java.sql.Driver;

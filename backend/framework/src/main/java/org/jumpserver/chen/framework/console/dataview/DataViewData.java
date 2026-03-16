@@ -1,7 +1,7 @@
-package org.jumpserver.chen.framework.console.dataview;
+package org.atherlock.chen.framework.console.dataview;
 
 import lombok.Data;
-import org.jumpserver.chen.framework.datasource.entity.resource.Field;
+import org.atherlock.chen.framework.datasource.entity.resource.Field;
 
 import java.util.ArrayList;
 import java.util.List;

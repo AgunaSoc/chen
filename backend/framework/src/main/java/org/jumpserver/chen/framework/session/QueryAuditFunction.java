@@ -1,7 +1,7 @@
-package org.jumpserver.chen.framework.session;
+package org.atherlock.chen.framework.session;
 
 
-import org.jumpserver.chen.framework.datasource.sql.SQLQueryResult;
+import org.atherlock.chen.framework.datasource.sql.SQLQueryResult;
 
 import java.sql.SQLException;
 

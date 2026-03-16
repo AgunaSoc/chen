@@ -1,9 +1,9 @@
-package org.jumpserver.chen.modules.dameng;
+package org.atherlock.chen.modules.dameng;
 
 import com.alibaba.druid.DbType;
-import org.jumpserver.chen.framework.datasource.DatasourceFactory;
-import org.jumpserver.chen.framework.datasource.base.BaseDatasource;
-import org.jumpserver.chen.framework.datasource.entity.DBConnectInfo;
+import org.atherlock.chen.framework.datasource.DatasourceFactory;
+import org.atherlock.chen.framework.datasource.base.BaseDatasource;
+import org.atherlock.chen.framework.datasource.entity.DBConnectInfo;
 
 public class DMDatasource extends BaseDatasource {
 

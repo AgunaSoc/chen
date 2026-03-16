@@ -1,4 +1,4 @@
-package org.jumpserver.chen.modules.mysql.entity;
+package org.atherlock.chen.modules.mysql.entity;
 
 
 import lombok.Data;

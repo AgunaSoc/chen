@@ -1,7 +1,7 @@
-package org.jumpserver.chen.framework.datasource;
+package org.atherlock.chen.framework.datasource;
 
-import org.jumpserver.chen.framework.datasource.entity.DBConnectInfo;
-import org.jumpserver.chen.framework.datasource.sql.SQLActuator;
+import org.atherlock.chen.framework.datasource.entity.DBConnectInfo;
+import org.atherlock.chen.framework.datasource.sql.SQLActuator;
 
 import java.sql.Connection;
 import java.sql.SQLException;

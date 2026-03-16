@@ -1,8 +1,8 @@
-package org.jumpserver.chen.framework.console.component;
+package org.atherlock.chen.framework.console.component;
 
-import org.jumpserver.chen.framework.ws.io.Packet;
-import org.jumpserver.chen.framework.console.entity.response.Message;
-import org.jumpserver.chen.framework.ws.io.PacketIO;
+import org.atherlock.chen.framework.ws.io.Packet;
+import org.atherlock.chen.framework.console.entity.response.Message;
+import org.atherlock.chen.framework.ws.io.PacketIO;
 
 public class Messager {
     private final PacketIO packetIO;

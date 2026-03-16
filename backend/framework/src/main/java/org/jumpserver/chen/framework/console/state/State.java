@@ -1,4 +1,4 @@
-package org.jumpserver.chen.framework.console.state;
+package org.atherlock.chen.framework.console.state;
 
 
 import lombok.Data;

@@ -1,4 +1,4 @@
-package org.jumpserver.chen.web.config;
+package org.atherlock.chen.web.config;
 
 import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.ObjectMapper;

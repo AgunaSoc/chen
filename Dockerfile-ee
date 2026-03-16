@@ -1,6 +1,6 @@
 ARG VERSION=dev
 
-FROM jumpserver/chen:${VERSION}-ce
+FROM atherlock/chen:${VERSION}-ce
 ARG TARGETARCH
 
 ARG DEPENDENCIES="                    \

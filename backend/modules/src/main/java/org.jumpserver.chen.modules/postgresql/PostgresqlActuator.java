@@ -1,11 +1,11 @@
-package org.jumpserver.chen.modules.postgresql;
+package org.atherlock.chen.modules.postgresql;
 
 import org.apache.commons.lang3.StringUtils;
-import org.jumpserver.chen.framework.datasource.ConnectionManager;
-import org.jumpserver.chen.framework.datasource.base.BaseSQLActuator;
-import org.jumpserver.chen.framework.datasource.sql.SQL;
-import org.jumpserver.chen.framework.datasource.sql.SQLExecutePlan;
-import org.jumpserver.chen.framework.datasource.sql.SQLQueryParams;
+import org.atherlock.chen.framework.datasource.ConnectionManager;
+import org.atherlock.chen.framework.datasource.base.BaseSQLActuator;
+import org.atherlock.chen.framework.datasource.sql.SQL;
+import org.atherlock.chen.framework.datasource.sql.SQLExecutePlan;
+import org.atherlock.chen.framework.datasource.sql.SQLQueryParams;
 
 import java.sql.Connection;
 import java.sql.SQLException;

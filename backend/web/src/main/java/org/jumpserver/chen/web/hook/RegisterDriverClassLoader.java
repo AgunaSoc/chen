@@ -1,10 +1,10 @@
-package org.jumpserver.chen.web.hook;
+package org.atherlock.chen.web.hook;
 
 import jakarta.annotation.PostConstruct;
 import lombok.extern.slf4j.Slf4j;
-import org.jumpserver.chen.framework.driver.DriverClassLoader;
-import org.jumpserver.chen.framework.driver.DriverManager;
-import org.jumpserver.chen.web.config.DriverConfig;
+import org.atherlock.chen.framework.driver.DriverClassLoader;
+import org.atherlock.chen.framework.driver.DriverManager;
+import org.atherlock.chen.web.config.DriverConfig;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 

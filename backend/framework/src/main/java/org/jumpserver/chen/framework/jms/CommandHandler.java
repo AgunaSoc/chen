@@ -1,6 +1,6 @@
-package org.jumpserver.chen.framework.jms;
+package org.atherlock.chen.framework.jms;
 
-import org.jumpserver.chen.framework.jms.entity.CommandRecord;
+import org.atherlock.chen.framework.jms.entity.CommandRecord;
 
 public interface CommandHandler {
     void recordCommand(CommandRecord commandRecord);

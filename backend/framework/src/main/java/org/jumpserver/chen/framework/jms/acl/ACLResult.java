@@ -1,7 +1,7 @@
-package org.jumpserver.chen.framework.jms.acl;
+package org.atherlock.chen.framework.jms.acl;
 
 import lombok.Data;
-import org.jumpserver.wisp.Common;
+import org.atherlock.wisp.Common;
 
 @Data
 public class ACLResult {

@@ -1,4 +1,4 @@
-package org.jumpserver.chen.framework.jms.exception;
+package org.atherlock.chen.framework.jms.exception;
 
 public class ReplayException extends RuntimeException {
     public ReplayException(String replayName, String message) {

@@ -1,9 +1,9 @@
-package org.jumpserver.chen.framework.datasource.sql;
+package org.atherlock.chen.framework.datasource.sql;
 
 import com.github.freva.asciitable.AsciiTable;
 import lombok.Data;
-import org.jumpserver.chen.framework.datasource.entity.resource.Field;
-import org.jumpserver.chen.framework.jms.acl.ACLResult;
+import org.atherlock.chen.framework.datasource.entity.resource.Field;
+import org.atherlock.chen.framework.jms.acl.ACLResult;
 
 import java.sql.Time;
 import java.util.ArrayList;

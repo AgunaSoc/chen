@@ -1,13 +1,13 @@
-package org.jumpserver.chen.framework.ws;
+package org.atherlock.chen.framework.ws;
 
 import com.alibaba.fastjson.JSON;
 import lombok.extern.slf4j.Slf4j;
-import org.jumpserver.chen.framework.i18n.MessageUtils;
-import org.jumpserver.chen.framework.session.Session;
-import org.jumpserver.chen.framework.session.SessionManager;
-import org.jumpserver.chen.framework.session.controller.dialog.Dialog;
-import org.jumpserver.chen.framework.ws.io.Packet;
-import org.jumpserver.chen.framework.ws.io.PacketIO;
+import org.atherlock.chen.framework.i18n.MessageUtils;
+import org.atherlock.chen.framework.session.Session;
+import org.atherlock.chen.framework.session.SessionManager;
+import org.atherlock.chen.framework.session.controller.dialog.Dialog;
+import org.atherlock.chen.framework.ws.io.Packet;
+import org.atherlock.chen.framework.ws.io.PacketIO;
 import org.springframework.web.socket.CloseStatus;
 import org.springframework.web.socket.WebSocketMessage;
 import org.springframework.web.socket.WebSocketSession;

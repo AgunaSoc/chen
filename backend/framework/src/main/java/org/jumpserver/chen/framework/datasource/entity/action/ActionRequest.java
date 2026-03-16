@@ -1,7 +1,7 @@
-package org.jumpserver.chen.framework.datasource.entity.action;
+package org.atherlock.chen.framework.datasource.entity.action;
 
 import lombok.Data;
-import org.jumpserver.chen.framework.datasource.entity.resource.TreeNode;
+import org.atherlock.chen.framework.datasource.entity.resource.TreeNode;
 
 @Data
 public class ActionRequest {

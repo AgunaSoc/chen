@@ -1,12 +1,12 @@
 # Chen
 
-Chen is the WebDB connection component of JumpServer, supporting multiple database protocols.
+Chen is the WebDB connection component of Atherlock, supporting multiple database protocols.
 
 Chen is implemented in Java, and its name is derived from the Dota hero [Chen](https://www.dota2.com/hero/chen).
 
 # UI Showcase
 
-![UI Showcase](https://download.jumpserver.org/images/chen.png)
+![UI Showcase](https://download.atherlock.org/images/chen.png)
 
 
 ## Supported Features

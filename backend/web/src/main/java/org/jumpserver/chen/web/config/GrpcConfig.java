@@ -1,4 +1,4 @@
-package org.jumpserver.chen.web.config;
+package org.atherlock.chen.web.config;
 
 import org.springframework.boot.autoconfigure.ImportAutoConfiguration;
 import org.springframework.context.annotation.Configuration;

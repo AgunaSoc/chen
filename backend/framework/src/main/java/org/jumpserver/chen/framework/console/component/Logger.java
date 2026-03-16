@@ -1,10 +1,10 @@
-package org.jumpserver.chen.framework.console.component;
+package org.atherlock.chen.framework.console.component;
 
 import lombok.extern.slf4j.Slf4j;
-import org.jumpserver.chen.framework.datasource.sql.SQLQueryResult;
-import org.jumpserver.chen.framework.ws.io.Packet;
-import org.jumpserver.chen.framework.console.entity.response.Log;
-import org.jumpserver.chen.framework.ws.io.PacketIO;
+import org.atherlock.chen.framework.datasource.sql.SQLQueryResult;
+import org.atherlock.chen.framework.ws.io.Packet;
+import org.atherlock.chen.framework.console.entity.response.Log;
+import org.atherlock.chen.framework.ws.io.PacketIO;
 
 
 @Slf4j

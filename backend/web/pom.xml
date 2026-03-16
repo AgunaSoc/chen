@@ -4,7 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <parent>
-        <groupId>org.jumpserver</groupId>
+        <groupId>org.atherlock</groupId>
         <artifactId>backend</artifactId>
         <version>${revision}</version>
         <relativePath>../pom.xml</relativePath>
@@ -19,7 +19,7 @@
                 <groupId>org.springframework.boot</groupId>
                 <artifactId>spring-boot-maven-plugin</artifactId>
                 <configuration>
-                    <mainClass>org.jumpserver.chen.web.WebDbApplication</mainClass>
+                    <mainClass>org.atherlock.chen.web.WebDbApplication</mainClass>
                 </configuration>
             </plugin>
             <plugin>
@@ -90,19 +90,19 @@
             <scope>test</scope>
         </dependency>
         <dependency>
-            <groupId>org.jumpserver</groupId>
+            <groupId>org.atherlock</groupId>
             <artifactId>wisp</artifactId>
             <version>${revision}</version>
         </dependency>
 
         <dependency>
-            <groupId>org.jumpserver</groupId>
+            <groupId>org.atherlock</groupId>
             <artifactId>framework</artifactId>
             <version>${revision}</version>
         </dependency>
 
         <dependency>
-            <groupId>org.jumpserver</groupId>
+            <groupId>org.atherlock</groupId>
             <artifactId>modules</artifactId>
             <version>${revision}</version>
         </dependency>

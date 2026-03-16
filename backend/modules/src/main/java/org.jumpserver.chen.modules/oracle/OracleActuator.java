@@ -1,12 +1,12 @@
-package org.jumpserver.chen.modules.oracle;
+package org.atherlock.chen.modules.oracle;
 
 import com.alibaba.druid.DbType;
 import com.alibaba.druid.sql.SQLUtils;
-import org.jumpserver.chen.framework.datasource.ConnectionManager;
-import org.jumpserver.chen.framework.datasource.base.BaseSQLActuator;
-import org.jumpserver.chen.framework.datasource.sql.SQL;
-import org.jumpserver.chen.framework.datasource.sql.SQLExecutePlan;
-import org.jumpserver.chen.framework.datasource.sql.SQLQueryParams;
+import org.atherlock.chen.framework.datasource.ConnectionManager;
+import org.atherlock.chen.framework.datasource.base.BaseSQLActuator;
+import org.atherlock.chen.framework.datasource.sql.SQL;
+import org.atherlock.chen.framework.datasource.sql.SQLExecutePlan;
+import org.atherlock.chen.framework.datasource.sql.SQLQueryParams;
 
 import java.sql.Connection;
 import java.sql.SQLException;

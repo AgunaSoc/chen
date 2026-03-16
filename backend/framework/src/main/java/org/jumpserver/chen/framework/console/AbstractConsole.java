@@ -1,12 +1,12 @@
-package org.jumpserver.chen.framework.console;
+package org.atherlock.chen.framework.console;
 
 import lombok.Getter;
 import lombok.Setter;
-import org.jumpserver.chen.framework.datasource.Datasource;
-import org.jumpserver.chen.framework.console.component.Logger;
-import org.jumpserver.chen.framework.console.component.Messager;
-import org.jumpserver.chen.framework.ws.io.PacketIO;
-import org.jumpserver.chen.framework.console.entity.request.Connect;
+import org.atherlock.chen.framework.datasource.Datasource;
+import org.atherlock.chen.framework.console.component.Logger;
+import org.atherlock.chen.framework.console.component.Messager;
+import org.atherlock.chen.framework.ws.io.PacketIO;
+import org.atherlock.chen.framework.console.entity.request.Connect;
 import org.springframework.web.socket.WebSocketSession;
 
 import java.util.Map;

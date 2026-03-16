@@ -1,4 +1,4 @@
-package org.jumpserver.chen.web.controller;
+package org.atherlock.chen.web.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;

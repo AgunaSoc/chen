@@ -1,6 +1,6 @@
-package org.jumpserver.chen.framework.jms;
+package org.atherlock.chen.framework.jms;
 
-import org.jumpserver.chen.framework.jms.exception.ReplayException;
+import org.atherlock.chen.framework.jms.exception.ReplayException;
 
 public interface ReplayHandler {
 

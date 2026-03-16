@@ -1,4 +1,4 @@
-package org.jumpserver.chen.framework.session;
+package org.atherlock.chen.framework.session;
 
 import lombok.extern.slf4j.Slf4j;
 

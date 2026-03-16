@@ -1,8 +1,8 @@
-package org.jumpserver.chen.modules.mysql;
+package org.atherlock.chen.modules.mysql;
 
-import org.jumpserver.chen.framework.datasource.ConnectionManager;
-import org.jumpserver.chen.framework.datasource.base.BaseSQLActuator;
-import org.jumpserver.chen.framework.datasource.sql.*;
+import org.atherlock.chen.framework.datasource.ConnectionManager;
+import org.atherlock.chen.framework.datasource.base.BaseSQLActuator;
+import org.atherlock.chen.framework.datasource.sql.*;
 
 import java.sql.Connection;
 import java.sql.SQLException;

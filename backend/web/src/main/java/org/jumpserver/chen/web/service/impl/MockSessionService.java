@@ -1,10 +1,10 @@
-package org.jumpserver.chen.web.service.impl;
+package org.atherlock.chen.web.service.impl;
 
-import org.jumpserver.chen.framework.datasource.DatasourceFactory;
-import org.jumpserver.chen.framework.session.Session;
-import org.jumpserver.chen.framework.session.impl.BaseSession;
-import org.jumpserver.chen.web.config.MockConfig;
-import org.jumpserver.chen.web.service.SessionService;
+import org.atherlock.chen.framework.datasource.DatasourceFactory;
+import org.atherlock.chen.framework.session.Session;
+import org.atherlock.chen.framework.session.impl.BaseSession;
+import org.atherlock.chen.web.config.MockConfig;
+import org.atherlock.chen.web.service.SessionService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

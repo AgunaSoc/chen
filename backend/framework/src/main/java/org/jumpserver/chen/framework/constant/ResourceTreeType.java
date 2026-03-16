@@ -1,4 +1,4 @@
-package org.jumpserver.chen.framework.constant;
+package org.atherlock.chen.framework.constant;
 
 public enum ResourceTreeType {
     DATABASE("database"),

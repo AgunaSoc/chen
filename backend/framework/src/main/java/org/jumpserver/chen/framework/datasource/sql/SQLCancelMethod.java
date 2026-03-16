@@ -1,4 +1,4 @@
-package org.jumpserver.chen.framework.datasource.sql;
+package org.atherlock.chen.framework.datasource.sql;
 
 @FunctionalInterface
 public interface SQLCancelMethod {

@@ -21,7 +21,7 @@ RUN set -ex \
 # Install tools and dependencies
 ARG CHECK_VERSION=v1.0.5
 RUN set -ex \
-    && wget https://github.com/jumpserver-dev/healthcheck/releases/download/${CHECK_VERSION}/check-${CHECK_VERSION}-linux-${TARGETARCH}.tar.gz \
+    && wget https://github.com/atherlock-dev/healthcheck/releases/download/${CHECK_VERSION}/check-${CHECK_VERSION}-linux-${TARGETARCH}.tar.gz \
     && tar -xf check-${CHECK_VERSION}-linux-${TARGETARCH}.tar.gz -C /usr/local/bin/ check \
     && chown root:root /usr/local/bin/check \
     && chmod 755 /usr/local/bin/check \
@@ -29,7 +29,7 @@ RUN set -ex \
 
 ARG WISP_VERSION=v0.2.12
 RUN set -ex \
-    && wget https://github.com/jumpserver/wisp/releases/download/${WISP_VERSION}/wisp-${WISP_VERSION}-linux-${TARGETARCH}.tar.gz \
+    && wget https://github.com/atherlock/wisp/releases/download/${WISP_VERSION}/wisp-${WISP_VERSION}-linux-${TARGETARCH}.tar.gz \
     && tar -xf wisp-${WISP_VERSION}-linux-${TARGETARCH}.tar.gz -C /usr/local/bin/ --strip-components=1 \
     && chown root:root /usr/local/bin/wisp \
     && chmod 755 /usr/local/bin/wisp \

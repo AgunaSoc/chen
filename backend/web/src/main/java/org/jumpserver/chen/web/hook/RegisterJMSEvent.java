@@ -1,14 +1,14 @@
-package org.jumpserver.chen.web.hook;
+package org.atherlock.chen.web.hook;
 
 import io.grpc.stub.StreamObserver;
 import jakarta.annotation.PostConstruct;
 import lombok.extern.slf4j.Slf4j;
 import net.devh.boot.grpc.client.inject.GrpcClient;
-import org.jumpserver.chen.framework.session.SessionManager;
-import org.jumpserver.chen.framework.session.impl.JMSSession;
-import org.jumpserver.chen.web.config.MockConfig;
-import org.jumpserver.wisp.ServiceGrpc;
-import org.jumpserver.wisp.ServiceOuterClass;
+import org.atherlock.chen.framework.session.SessionManager;
+import org.atherlock.chen.framework.session.impl.JMSSession;
+import org.atherlock.chen.web.config.MockConfig;
+import org.atherlock.wisp.ServiceGrpc;
+import org.atherlock.wisp.ServiceOuterClass;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.scheduling.annotation.Async;
 import org.springframework.stereotype.Component;

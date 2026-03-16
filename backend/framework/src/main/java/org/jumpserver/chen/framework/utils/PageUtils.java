@@ -1,5 +1,5 @@
 
-package org.jumpserver.chen.framework.utils;
+package org.atherlock.chen.framework.utils;
 
 import com.alibaba.druid.DbType;
 import com.alibaba.druid.FastsqlException;

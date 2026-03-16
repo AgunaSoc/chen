@@ -1,4 +1,4 @@
-package org.jumpserver.chen.framework.utils;
+package org.atherlock.chen.framework.utils;
 
 import java.lang.reflect.Field;
 import java.lang.reflect.InvocationTargetException;

@@ -1,11 +1,11 @@
-package org.jumpserver.chen.web.controller;
+package org.atherlock.chen.web.controller;
 
 import jakarta.servlet.http.HttpServletRequest;
-import org.jumpserver.chen.framework.session.Session;
-import org.jumpserver.chen.framework.session.SessionManager;
-import org.jumpserver.chen.web.entity.AuthRequest;
-import org.jumpserver.chen.web.entity.AuthResponse;
-import org.jumpserver.chen.web.service.SessionService;
+import org.atherlock.chen.framework.session.Session;
+import org.atherlock.chen.framework.session.SessionManager;
+import org.atherlock.chen.web.entity.AuthRequest;
+import org.atherlock.chen.web.entity.AuthResponse;
+import org.atherlock.chen.web.service.SessionService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;

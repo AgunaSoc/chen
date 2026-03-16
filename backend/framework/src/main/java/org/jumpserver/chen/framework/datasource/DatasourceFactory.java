@@ -1,7 +1,7 @@
-package org.jumpserver.chen.framework.datasource;
+package org.atherlock.chen.framework.datasource;
 
 import lombok.extern.slf4j.Slf4j;
-import org.jumpserver.chen.framework.datasource.entity.DBConnectInfo;
+import org.atherlock.chen.framework.datasource.entity.DBConnectInfo;
 
 import java.util.Map;
 import java.util.concurrent.ConcurrentHashMap;

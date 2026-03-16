@@ -1,9 +1,9 @@
-package org.jumpserver.chen.modules.oracle;
+package org.atherlock.chen.modules.oracle;
 
-import org.jumpserver.chen.framework.datasource.Datasource;
-import org.jumpserver.chen.framework.datasource.base.BaseConnectionManager;
-import org.jumpserver.chen.framework.datasource.entity.DBConnectInfo;
-import org.jumpserver.chen.framework.datasource.sql.SQL;
+import org.atherlock.chen.framework.datasource.Datasource;
+import org.atherlock.chen.framework.datasource.base.BaseConnectionManager;
+import org.atherlock.chen.framework.datasource.entity.DBConnectInfo;
+import org.atherlock.chen.framework.datasource.sql.SQL;
 
 import java.sql.SQLException;
 import java.util.Properties;

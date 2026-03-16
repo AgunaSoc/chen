@@ -1,7 +1,7 @@
-package org.jumpserver.chen.framework.console.dataview;
+package org.atherlock.chen.framework.console.dataview;
 
-import org.jumpserver.chen.framework.datasource.sql.SQLQueryParams;
-import org.jumpserver.chen.framework.datasource.sql.SQLQueryResult;
+import org.atherlock.chen.framework.datasource.sql.SQLQueryParams;
+import org.atherlock.chen.framework.datasource.sql.SQLQueryResult;
 
 import java.sql.SQLException;
 

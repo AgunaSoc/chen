@@ -4,7 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <parent>
-        <groupId>org.jumpserver</groupId>
+        <groupId>org.atherlock</groupId>
         <artifactId>backend</artifactId>
         <version>${revision}</version>
         <relativePath>../pom.xml</relativePath>
@@ -14,7 +14,7 @@
 
     <dependencies>
         <dependency>
-            <groupId>org.jumpserver</groupId>
+            <groupId>org.atherlock</groupId>
             <artifactId>framework</artifactId>
             <version>${revision}</version>
         </dependency>

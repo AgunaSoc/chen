@@ -1,7 +1,7 @@
-package org.jumpserver.chen.framework.i18n;
+package org.atherlock.chen.framework.i18n;
 
 import lombok.extern.slf4j.Slf4j;
-import org.jumpserver.chen.framework.session.SessionManager;
+import org.atherlock.chen.framework.session.SessionManager;
 import org.springframework.context.MessageSource;
 import org.springframework.stereotype.Component;
 

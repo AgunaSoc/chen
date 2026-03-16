@@ -1,4 +1,4 @@
-package org.jumpserver.chen.framework.ws.io;
+package org.atherlock.chen.framework.ws.io;
 
 import com.alibaba.fastjson.JSON;
 import lombok.Getter;

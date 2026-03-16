@@ -1,7 +1,7 @@
-package org.jumpserver.chen.framework.datasource.entity.resource;
+package org.atherlock.chen.framework.datasource.entity.resource;
 
 import lombok.Data;
-import org.jumpserver.chen.framework.utils.TreeUtils;
+import org.atherlock.chen.framework.utils.TreeUtils;
 
 @Data
 public class Table implements ResourceNode {

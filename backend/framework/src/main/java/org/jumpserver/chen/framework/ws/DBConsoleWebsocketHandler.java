@@ -1,4 +1,4 @@
-package org.jumpserver.chen.framework.ws;
+package org.atherlock.chen.framework.ws;
 
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.web.socket.WebSocketMessage;

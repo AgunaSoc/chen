@@ -1,11 +1,11 @@
-package org.jumpserver.chen.modules.mysql;
+package org.atherlock.chen.modules.mysql;
 
 import org.apache.commons.lang3.StringUtils;
-import org.jumpserver.chen.framework.datasource.Datasource;
-import org.jumpserver.chen.framework.datasource.base.BaseConnectionManager;
-import org.jumpserver.chen.framework.datasource.entity.DBConnectInfo;
-import org.jumpserver.chen.framework.datasource.sql.SQL;
-import org.jumpserver.chen.modules.base.ssl.JKSGenerator;
+import org.atherlock.chen.framework.datasource.Datasource;
+import org.atherlock.chen.framework.datasource.base.BaseConnectionManager;
+import org.atherlock.chen.framework.datasource.entity.DBConnectInfo;
+import org.atherlock.chen.framework.datasource.sql.SQL;
+import org.atherlock.chen.modules.base.ssl.JKSGenerator;
 
 import java.sql.Connection;
 import java.sql.SQLException;

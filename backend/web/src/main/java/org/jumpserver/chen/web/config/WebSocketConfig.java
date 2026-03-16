@@ -1,8 +1,8 @@
-package org.jumpserver.chen.web.config;
+package org.atherlock.chen.web.config;
 
-import org.jumpserver.chen.framework.ws.ConsoleWebSocketHandler;
-import org.jumpserver.chen.framework.ws.DBConsoleWebsocketHandler;
-import org.jumpserver.chen.framework.ws.SessionWebSocketHandler;
+import org.atherlock.chen.framework.ws.ConsoleWebSocketHandler;
+import org.atherlock.chen.framework.ws.DBConsoleWebsocketHandler;
+import org.atherlock.chen.framework.ws.SessionWebSocketHandler;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.http.server.ServerHttpRequest;

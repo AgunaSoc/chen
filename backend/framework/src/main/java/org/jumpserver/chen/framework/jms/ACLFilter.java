@@ -1,6 +1,6 @@
-package org.jumpserver.chen.framework.jms;
+package org.atherlock.chen.framework.jms;
 
-import org.jumpserver.chen.framework.jms.acl.ACLResult;
+import org.atherlock.chen.framework.jms.acl.ACLResult;
 
 import java.sql.Connection;
 

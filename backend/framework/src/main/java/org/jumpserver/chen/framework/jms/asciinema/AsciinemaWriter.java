@@ -1,8 +1,8 @@
-package org.jumpserver.chen.framework.jms.asciinema;
+package org.atherlock.chen.framework.jms.asciinema;
 
 import com.google.gson.Gson;
 import com.google.gson.annotations.SerializedName;
-import org.jumpserver.chen.framework.utils.TimeUtils;
+import org.atherlock.chen.framework.utils.TimeUtils;
 
 import java.io.IOException;
 import java.io.Writer;

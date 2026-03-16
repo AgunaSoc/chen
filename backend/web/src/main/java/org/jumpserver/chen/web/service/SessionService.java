@@ -1,7 +1,7 @@
-package org.jumpserver.chen.web.service;
+package org.atherlock.chen.web.service;
 
 
-import org.jumpserver.chen.framework.session.Session;
+import org.atherlock.chen.framework.session.Session;
 
 public interface SessionService {
     Session createNewSession(String token,String remoteAddr);

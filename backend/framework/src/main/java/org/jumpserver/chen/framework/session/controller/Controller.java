@@ -1,8 +1,8 @@
-package org.jumpserver.chen.framework.session.controller;
+package org.atherlock.chen.framework.session.controller;
 
-import org.jumpserver.chen.framework.session.controller.dialog.Dialog;
-import org.jumpserver.chen.framework.session.controller.message.MessageLevel;
-import org.jumpserver.chen.framework.ws.io.Packet;
+import org.atherlock.chen.framework.session.controller.dialog.Dialog;
+import org.atherlock.chen.framework.session.controller.message.MessageLevel;
+import org.atherlock.chen.framework.ws.io.Packet;
 
 public interface Controller {
     void showDialog(Dialog dialog);

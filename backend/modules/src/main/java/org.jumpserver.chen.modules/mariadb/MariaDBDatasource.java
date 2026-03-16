@@ -1,10 +1,10 @@
-package org.jumpserver.chen.modules.mariadb;
+package org.atherlock.chen.modules.mariadb;
 
 import com.alibaba.druid.DbType;
-import org.jumpserver.chen.framework.datasource.DatasourceFactory;
-import org.jumpserver.chen.framework.datasource.base.BaseDatasource;
-import org.jumpserver.chen.framework.datasource.entity.DBConnectInfo;
-import org.jumpserver.chen.modules.mysql.MysqlActionHandler;
+import org.atherlock.chen.framework.datasource.DatasourceFactory;
+import org.atherlock.chen.framework.datasource.base.BaseDatasource;
+import org.atherlock.chen.framework.datasource.entity.DBConnectInfo;
+import org.atherlock.chen.modules.mysql.MysqlActionHandler;
 
 public class MariaDBDatasource extends BaseDatasource {
 

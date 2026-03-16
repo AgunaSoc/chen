@@ -1,4 +1,4 @@
-package org.jumpserver.chen.framework.session.exception;
+package org.atherlock.chen.framework.session.exception;
 
 public class SessionException extends RuntimeException {
     public SessionException(String username, String message) {

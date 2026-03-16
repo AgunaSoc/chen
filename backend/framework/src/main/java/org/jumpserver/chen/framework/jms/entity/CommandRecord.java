@@ -1,8 +1,8 @@
-package org.jumpserver.chen.framework.jms.entity;
+package org.atherlock.chen.framework.jms.entity;
 
 import lombok.Data;
-import org.jumpserver.chen.framework.datasource.sql.SQLQueryResult;
-import org.jumpserver.wisp.Common;
+import org.atherlock.chen.framework.datasource.sql.SQLQueryResult;
+import org.atherlock.wisp.Common;
 
 @Data
 public class CommandRecord {

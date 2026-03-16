@@ -1,13 +1,13 @@
-package org.jumpserver.chen.web.controller;
+package org.atherlock.chen.web.controller;
 
-import org.jumpserver.chen.framework.datasource.entity.action.Action;
-import org.jumpserver.chen.framework.datasource.entity.action.ActionRequest;
-import org.jumpserver.chen.framework.datasource.entity.action.EventEmitter;
-import org.jumpserver.chen.framework.datasource.entity.form.FormData;
-import org.jumpserver.chen.framework.datasource.entity.resource.TreeNode;
-import org.jumpserver.chen.framework.session.SessionManager;
-import org.jumpserver.chen.web.entity.GetHintsRequest;
-import org.jumpserver.chen.web.service.ResourceService;
+import org.atherlock.chen.framework.datasource.entity.action.Action;
+import org.atherlock.chen.framework.datasource.entity.action.ActionRequest;
+import org.atherlock.chen.framework.datasource.entity.action.EventEmitter;
+import org.atherlock.chen.framework.datasource.entity.form.FormData;
+import org.atherlock.chen.framework.datasource.entity.resource.TreeNode;
+import org.atherlock.chen.framework.session.SessionManager;
+import org.atherlock.chen.web.entity.GetHintsRequest;
+import org.atherlock.chen.web.service.ResourceService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 

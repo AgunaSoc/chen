@@ -20,7 +20,7 @@ sed -i "s@root: INFO@root: ${LOG_LEVEL}@g" /opt/chen/config/application.yml
 
 echo
 date
-echo "CHEN Version $VERSION, more see https://www.jumpserver.org"
+echo "CHEN Version $VERSION, more see https://www.atherlock.org"
 echo "Quit the server with CONTROL-C."
 echo
 
